@@ -4,9 +4,7 @@ General concepts:
 
 **Learn HTML and CSS first.**
 
-1. JavaScript is the most fragile front-end technology.
-1. Only use JavaScript when there is no other alternative.
-1. Use JavaScript to progressively enhance functionality.
+
 
 Form fields and validation should be HTML.
 
